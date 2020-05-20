@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+Tom is an amazing Vanna
+
 * Ruby version
 
 * System dependencies
